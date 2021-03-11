@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello world! 🙋‍
+My name is Bohyun Kang. I am a Front-end developer who has a desire for making a better world. 💻
+
+#### ✨ Interests
+- 💻 Web development(HTML, CSS, JavaScript, and React ...) 
+- 🎨 UX/UI design 
+- 🧠 Neuroscience 
+- 💃 K-pop 
 
 <!--
 **bohyunkang/bohyunkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

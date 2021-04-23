@@ -1,5 +1,5 @@
 ### Hello world! 🙋‍
-My name is Bohyun Kang. I am a Front-end developer who has a desire for making a better world. 💻
+My name is Bohyun Kang. I am a Front-end developer who looking for ways to make a better world. 💻
 
 ### ✨ Interests
 - 💻 Web development(HTML, CSS, JavaScript, and React ...) 

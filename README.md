@@ -2,7 +2,7 @@
 My name is Bohyun Kang. I am a Front-end developer who looking for ways to make a better world. 💻
 
 ### ✨ Interests
-- 💻 Web development(HTML, CSS, JavaScript, React and Vue...) 
+- 💻 Web development(HTML, CSS, JavaScript and React ...) 
 - 🎨 UX/UI design 
 - 🧠 Neuroscience 
 - 💃 K-pop 
